@@ -2,6 +2,12 @@
 
 ## mercado-moeda
 
+Arquitetura interna da aplicação
+
+![arquitetura-hexagonal-docs](https://github.com/helsonsant/mercado-moeda/blob/master/src/main/resources/mercado-moeda-arquitetura-interna.png?raw=true)
+
+
+
 API 
     moeda-mercado/
 
