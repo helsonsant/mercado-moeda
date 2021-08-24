@@ -125,3 +125,8 @@ A documentação também pode ser consultada via swagger-ui
 
 ![swagger-docs](https://github.com/helsonsant/mercado-moeda/blob/master/src/main/resources/mercado-moeda-swagger.png?raw=true)
 
+Sugestão de arquitetura para implantação na cloud AWS
+
+![swagger-docs](https://github.com/helsonsant/mercado-moeda/blob/master/src/main/resources/mercado-moeda-arquitetura.png?raw=true)
+
+
