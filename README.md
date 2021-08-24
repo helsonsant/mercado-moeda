@@ -121,3 +121,7 @@ Endpoints
         retorno:
             http status 200 OK
 
+A documentação também pode ser consultada via swagger-ui
+
+![swagger-docs](https://github.com/helsonsant/mercado-moeda/blob/master/src/main/resources/mercado-moeda-swagger.png?raw=true)
+
